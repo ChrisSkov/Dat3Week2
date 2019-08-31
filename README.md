@@ -1,2 +1,2 @@
 Dat3Week2
-domain name not completely setup yet. help is required
+domain name has been set up https://goinghamdev.com/Glory/
